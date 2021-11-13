@@ -1,0 +1,12 @@
+.searchedCity{
+    display: flex;
+    padding: 10px;
+    border: 3px black solid;
+    width: 300px;
+}
+.red{
+    padding: 10px;
+    margin: 10px;
+    border: 1px blueviolet solid;
+    color: red;
+}
